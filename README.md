@@ -20,6 +20,6 @@
 - All hidden layers are equipped with the rectification (ReLU) non-linearity. It is also noted that none of the networks (except for one) contain Local Response Normalisation (LRN), such normalization does not improve the performance on the ILSVRC dataset, but leads to increased memory consumption and computation time.
 
 ### Model trained on GTX 1050
-### Model used VGG16
+### CNN used VGG16
 ### Time taken - (14 x 30)s = 7 mins
 
